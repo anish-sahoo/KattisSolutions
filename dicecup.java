@@ -1,5 +1,3 @@
-package kansas2.o;
-
 import java.util.Arrays;
 import java.util.Scanner;
 

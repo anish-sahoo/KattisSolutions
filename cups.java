@@ -1,5 +1,3 @@
-package kansas2.o;
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
